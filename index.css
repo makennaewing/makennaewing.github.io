@@ -1,0 +1,156 @@
+#homeWrapper{
+	width: 1250px;
+	height: 850px;
+	background-image:url("images/homepageBackground.jpeg");
+	background-repeat: no-repeat;
+	background-size: 1300px 900px;
+}
+#homeTitle{
+	color: white;
+	height: 100px;
+	width: 1000px;
+	margin: 0 auto;
+	padding-top: 200px;
+}
+#homeTitle h1{
+	text-align: center;
+	font-family: 'Lobster Two', cursive;
+	font-size: 90px;
+}
+#homeTitle h2{
+	text-align: center;
+	font-family: 'Josefin Slab', serif;
+	font-size: 30px;
+	
+}	
+#homeNav li{
+	font-family: 'Josefin Slab', serif;	
+	font-size: 30px;
+	color: white;
+	display: inline-block;
+	width: 150px;
+	text-align: center;
+	margin-top: 200px;
+	margin-left: 180px;
+}
+#homeNav a {
+	text-decoration: none;
+	color: white;
+}
+#homeNav a:hover{
+	font-style: oblique;
+}
+#wrapper{
+	width: 1250px;
+	height: 1000px;
+	background-color: #9494b8;
+
+}
+#header{
+	width: 1250px;
+	height: 200px;
+	background-image: url("images/nav.jpeg");
+	background-repeat: no-repeat;
+	background-size: 1250px 200px;
+	
+}
+#header h1{
+	text-align: center;
+	font-family: 'Lobster Two', cursive;
+	color: white;
+	font-size: 80px;
+	margin: 0 auto;
+}
+#mainNav{
+	margin-left:598px;
+	margin-top: 50px;
+}
+#mainNav li{
+	font-family: 'Josefin Slab', serif;	
+	font-size: 20px;
+	color: white;
+	display: inline-block;
+	width: 150px;
+	text-align: center;	
+}
+#mainNav a{
+	text-decoration: none;
+	color: white;
+}
+#mainNav a:hover{
+	font-style: oblique;
+}
+#PicturesOfMe{
+	width: 600px;
+	height:590px;
+	background-color: #dab3ff; 
+	float: left;
+	border-radius: 20px;
+	margin: 10px;
+}
+#ParagraphAboutMe{
+	width: 600px;
+	height:590px;
+	background-color: #dab3ff; 
+	float: right;
+	border-radius: 20px;
+	margin: 10px;
+	font-family: 'Josefin Slab', serif;	
+}
+#ParagraphAboutMe p{
+	font-size: 20px;
+}
+#Job{
+	font-family: 'Josefin Slab', serif;	
+	width: 390px;
+	height: 590px;
+	background-color: #dab3ff; 
+	float: left;
+	border-radius: 20px;
+	margin: 10px;
+}
+#Job img{
+	border-radius: 50%;
+	margin-left: 10%;
+}
+#Job p{
+	font-size: 20px;
+}
+#CIT{
+	font-family: 'Josefin Slab', serif;
+	width: 390px;
+	height: 590px;	
+	background-color: #dab3ff; 
+	float: left;
+	border-radius: 20px;
+	margin: 10px;
+}
+#Robotics{
+	font-family: 'Josefin Slab', serif;	
+	width: 390px;
+	height: 590px;
+	background-color: #dab3ff; 
+	float: left;
+	border-radius: 20px;
+	margin: 10px;
+}
+#Job h2{
+	text-decoration: underline;
+	padding-bottom:5px;
+}
+#CIT  h2{
+	text-decoration: underline;
+	padding-bottom:5px;
+
+}
+#Robotics h2{
+	text-decoration: underline;
+	padding-bottom:5px;
+
+}
+#footer{
+	float: clear;
+	height: 75px;
+	width: 1200px;
+	background-color: purple;
+}
